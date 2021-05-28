@@ -1,3 +1,7 @@
-name: Mein Lee, Horrible Cop
-markdown: kramdown
+name: Mein Lee, aspiring ML Engineer
+title: Your Binging Starts Here
+email: meinlee@berkeley.edu
+description: credits to thiagorossener on github
+twitter: @meindata
+github: mein-lee
 permalink: /blog/:year/:month/:day/:title
